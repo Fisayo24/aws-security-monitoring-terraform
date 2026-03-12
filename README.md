@@ -30,6 +30,7 @@ This screenshot shows the Amazon GuardDuty dashboard monitoring the AWS environm
 GuardDuty analyzes logs and network activity to detect potential threats and security findings.
 
 ![GuardDuty Dashboard](images/Screenshot 2026-03-12 at 10.59.29.png)
+https://github.com/Fisayo24/aws-security-monitoring-terraform/blob/main/imagesScreenshot%202026-03-12%20at%2010.59.29.png.png
 
 ---
 
