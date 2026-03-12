@@ -34,3 +34,9 @@ AWS CloudTrail records API activity across the AWS account. These logs provide v
 ![S3 Logging Bucket](s3-logging-bucket.png)
 
 This screenshot shows the Amazon S3 bucket used to securely store CloudTrail logs generated within the AWS environment. Centralized log storage enables long‑term auditing, forensic analysis, and compliance monitoring.
+
+## SNS Security Alerts
+
+![SNS Alerts](sns-alerts-topic.png)
+
+Amazon Simple Notification Service (SNS) is used to deliver real-time security alerts. When GuardDuty detects suspicious activity, notifications are sent through the SNS topic to subscribed endpoints such as email, allowing security teams to respond quickly to potential threats.
