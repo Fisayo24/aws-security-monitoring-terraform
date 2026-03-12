@@ -10,8 +10,7 @@ This project deploys a security monitoring environment in AWS using Terraform.
 - Amazon S3
 
 ## GuardDuty Dashboard
-
-![GuardDuty Dashboard](images/guardduty-dashboard.png)
+![GuardDuty Dashboard](guardduty-dashboard.png)
 
 ## Description
 
