@@ -28,3 +28,9 @@ This screenshot shows the Amazon GuardDuty findings panel displaying detected se
 ![CloudTrail Trail](cloudtrail-trail.png)
 
 AWS CloudTrail records API activity across the AWS account. These logs provide visibility into user actions, resource changes, and service events, helping with auditing, security monitoring, and incident investigation.
+
+## S3 Security Log Storage
+
+![S3 Logging Bucket](s3-logging-bucket.png)
+
+This screenshot shows the Amazon S3 bucket used to securely store CloudTrail logs generated within the AWS environment. Centralized log storage enables long‑term auditing, forensic analysis, and compliance monitoring.
