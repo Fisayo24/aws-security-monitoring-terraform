@@ -17,7 +17,6 @@ This project deploys a security monitoring environment in AWS using Terraform.
 GuardDuty monitors AWS accounts for suspicious activity while CloudTrail logs API activity.  
 SNS sends alerts when security findings are detected, and S3 securely stores logs.
 
-
 ## GuardDuty Security Findings 
 ![GuardDuty Findings](guardduty-findings.png) 
 
