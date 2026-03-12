@@ -19,7 +19,7 @@ SNS sends alerts when security findings are detected, and S3 securely stores log
 
 
 ## GuardDuty Security Findings 
-![GuardDuty Findings](guardduty-findings.png)
+![GuardDuty Findings](guardduty-findings.png) 
 
 ## Description
 
