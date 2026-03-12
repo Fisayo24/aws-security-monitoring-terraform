@@ -21,6 +21,12 @@ This project demonstrates Infrastructure as Code (IaC) and AWS security best pra
 (Add architecture screenshot here)
 
 ![Architecture](images/architecture.png)
+GuardDuty Threat Detection Dashboard
+
+This screenshot shows the Amazon GuardDuty console displaying security findings detected in the AWS account. 
+GuardDuty continuously monitors the environment for suspicious activity and generates alerts that are sent to SNS.
+
+[Image appears here]
 
 ---
 
